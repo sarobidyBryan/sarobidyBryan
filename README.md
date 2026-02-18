@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=0A1A2F&center=true&width=720&lines=Backend-focused+Full+Stack+Developer;Engineering+reliable+systems+with+precision;Clean+architecture+%7C+Code+quality+%7C+Production-ready+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=FFFFFF&center=true&width=720&lines=Backend-focused+Full+Stack+Developer;Engineering+reliable+systems+with+precision;Clean+architecture+%7C+Code+quality+%7C+Production-ready+projects" />
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 
 ## About Me
 
-Backend-oriented Full Stack Developer focused on **robust architectures**, **maintainable code**, and **real-world problem solving**.  
-I value discipline, consistency, and delivering solutions that last beyond the demo phase.
+Backend-oriented Full Stack Developer focused on robust architectures, maintainable code, and real-world problem solving.  
+I value discipline, consistency, and delivering solutions that scale beyond prototypes.
 
 ---
 
@@ -48,33 +48,17 @@ I value discipline, consistency, and delivering solutions that last beyond the d
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sarobidyBryan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sarobidyBryan&theme=github-dark" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarobidyBryan&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarobidyBryan&theme=github_dark" />
-</p>
-
----
-
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarobidyBryan&theme=flat&no-frame=true&row=1&column=6" />
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com?user=sarobidyBryan&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ## Mindset
 
-- Strong commitment to **code quality and long-term maintainability**  
-- I don’t quit on problems, I **analyze, iterate, and solve them**  
-- I aim to ship solutions that are **clean, reliable, and production-ready**
+- Strong commitment to code quality and long-term maintainability  
+- I don’t quit on problems, I analyze, iterate, and solve them  
+- I aim to ship solutions that are clean, reliable, and production-ready
 
 ---
 
