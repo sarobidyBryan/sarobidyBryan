@@ -48,8 +48,14 @@ I value discipline, consistency, and delivering solutions that scale beyond prot
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170"
+  <img height="165"
        src="https://github-readme-streak-stats.herokuapp.com?user=sarobidyBryan&theme=github-dark&hide_border=true" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarobidyBryan&theme=github_dark" />
 </p>
 
 ---
